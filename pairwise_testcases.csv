@@ -1,0 +1,10 @@
+Browser,OS,Payment_Method,Membership
+Chrome,Windows,Visa,Khach_Thuong
+Firefox,macOS,MasterCard,Khach_Thuong
+Edge,Linux,MoMo,Khach_Thuong
+Edge,macOS,Visa,Khach_VIP
+Firefox,Windows,MoMo,Khach_VIP
+Chrome,Linux,MasterCard,Khach_VIP
+Chrome,macOS,MoMo,Khach_VIP
+Firefox,Linux,Visa,Khach_VIP
+Edge,Windows,MasterCard,Khach_VIP
